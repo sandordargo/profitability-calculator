@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1000084634033",
+    "firebase_url": "https://burnished-data-221610.firebaseio.com",
+    "project_id": "burnished-data-221610",
+    "storage_bucket": "burnished-data-221610.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000084634033:android:ffddf651df28ba6c",
+        "android_client_info": {
+          "package_name": "com.dargo.profitabilitycalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000084634033-95edulfh0dmp4i57q994ip93n612vd4p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dargo.profitabilitycalculator",
+            "certificate_hash": "b30645a19921841f753ec46a79204cf25cd0d81d"
+          }
+        },
+        {
+          "client_id": "1000084634033-m0om6gt4bnb9fujdjvb5kki4mbii61ol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW_x92kaK_RDIg_7LMGDbbZ4PRHqPVvwE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000084634033-m0om6gt4bnb9fujdjvb5kki4mbii61ol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
